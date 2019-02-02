@@ -1,0 +1,1 @@
+Disable middle click paste.
