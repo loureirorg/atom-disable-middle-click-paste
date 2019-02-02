@@ -1,7 +1,7 @@
 {
   "name": "disable-middle-click-paste",
   "main": "./index.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Disable middle click paste",
   "keywords": [
     "middle",
